@@ -183,7 +183,7 @@ function checkTodo(event) {
         endGame.classList.remove('none');
 
     } else if (score > 50) {
-        formField.classList.add('none);
+        formField.classList.add('none');
         endGame.classList.remove('none');
 
     } else if (score < 50) {
